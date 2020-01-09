@@ -1,0 +1,19 @@
+{
+  "appKey": "rC5rD8N5GAyUMEyn6it8PUujWuGokwa5",
+  "appSecret": "rBcRGqzVj4Lp97NpQlT6Ui8HGywg0DW2",
+  "projectId": "55638896364529d94ba9013d366214db",
+  "id": 395,
+  "name": "iframe",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "iframe",
+  "git": {
+    "url": "https://github.com/qiaoli900311/iframe.git",
+    "isPrivate": 0,
+    "username": "qiaoli900311",
+    "password": "48111400qiaoli"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
